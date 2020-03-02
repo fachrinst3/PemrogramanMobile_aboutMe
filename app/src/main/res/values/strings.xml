@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">simple</string>
+    <string name="name">S. Fachri Nst</string>
+    <string name="fachri_kappa">fachri kappa</string>
+    <string name="bio">Saya berasal dari medan,sumatra utara. Saya kuliah di STMIK AKAKOM Yogyakarta mulai dari tahun 2017 sampai sekarang (semester-6). Program ini saya kembangkan untuk dapat menerima inputan user, dan menampilkannya dibawah nama saya. Untuk fitur itu berhubungan dengan
+    pembelajaran saya mengenai plain text, visibility, menambah click listener, serta menambah beberapa fungsi pada MainAcvtivity.kt</string>
+    <string name="siapa_nickname_aku">Nickname for me</string>
+    <string name="done">it suits me</string>
+</resources>
